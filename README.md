@@ -1,21 +1,9 @@
 # SQLAlchemy-challenge
 Module 10 Challenge: Advanced Data Storage &amp; Retrieval
 
-Before You Begin
-Create a new repository for this project called sqlalchemy-challenge. Do not add this assignment to an existing repository.
-
-Clone the new repository to your computer.
-
-Inside your local Git repository, create a directory for this Challenge. Use a folder name that corresponds to the Challenge, such as SurfsUp.
-
-Add your Jupyter notebook and app.py to this folder. They’ll contain the main scripts to run for analysis.
-
-Push the changes to GitHub or GitLab.
-
-Files
-Download the following files to help you get started:
-
-Module 10 Challenge filesLinks to an external site.
+<img src="/..Resources/SurfsUp/surfs-up.jpg" 
+alt="Alt text" 
+title="SurfsUpHawaii">
 
 Instructions
 “”
