@@ -122,6 +122,7 @@ def tobs():
 
 # Return a JSON list of the minimum temperature, the average temperature, and the maximum temperature for a specified start or start-end range
 # For a specified start, calculate TMIN, TAVG, and TMAX for all the dates greater than or equal to the start date
+# http://127.0.0.1:5000/api/v1.0/2017-06-12
 @app.route('/api/v1.0/<start>')
 def start_date(start):
     
@@ -141,7 +142,7 @@ def start_date(start):
     return jsonify(start_tobs)
     
 # For a specified start date and end date, calculate TMIN, TAVG, and TMAX for the dates from the start date to the end date, inclusive
-
+# 4/12 http://127.0.0.1:5000/api/v1.0/2016-08-24/2016-08-28
 @app.route("/api/v1.0/<start>/<end>")
 def start_end_date(start, end):
     
