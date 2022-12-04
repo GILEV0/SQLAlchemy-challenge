@@ -2,7 +2,6 @@
 Module 10 Challenge: Advanced Data Storage &amp; Retrieval
 
 <img src="/..Resources/SurfsUp/surfs-up.jpg" 
-alt="Alt text" 
 title="SurfsUpHawaii">
 
 Instructions
